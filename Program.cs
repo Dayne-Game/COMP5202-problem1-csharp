@@ -6,11 +6,19 @@ namespace problem1_csharp
     {
         static void Main(string[] args)
         {
+
+            //create var number 1
+            //create var number 2
+            //create number1input = TryParse
+            //create number2input = Tryparse
+            //check if statement is true (number 1 > number 2)
+            //out put back to user.
+
+
             //Start the program with Clear();
             Console.Clear();
-            
-            Console.WriteLine("Welcome to the greater than project");
 
+            Console.WriteLine("This program will check if number 1 and number 2 and see which one is greater");
             var number1 = 0;
             var number2 = 0;
 
